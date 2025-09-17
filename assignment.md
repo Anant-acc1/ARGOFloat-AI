@@ -1,0 +1,25 @@
+# Group Member Tasks
+
+## Shivanshu
+
+<p>IMPORT DATA AND AUTOMATE THIS PIPELINE CONVERT TO PARQUET</p>
+
+## Abhiraj
+
+<p>RAG PIPELINE, VECTOR DATABASE</p>
+
+## Anant
+
+<p>Filter Metadata, and DOCS, help in embeddings</p>
+
+## Alphin
+
+<p>DUCKDB and PPT</p>
+
+## Priya
+
+<p>Chat UI</p>
+
+## satyam
+
+<p>Visualization Dashboard & Chat UI</p>
