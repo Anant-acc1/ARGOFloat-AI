@@ -7,7 +7,7 @@ This is our SIH project (problem statement 40)
 
 
 ## Project Setup
-
+<p>
 ### Step 1: clone this repository on your system
 
 Run (on terminal):
@@ -21,12 +21,14 @@ git clone [text](https://github.com/Abhiraj212024/ARGOFloat-AI.git)
 python3 -m venv .venv
 source .venv/bin/activate
 
-#On Windows Run:
+#On Windows Run: 
 
-python -m venv .venv
-venv\Scripts\activate
+python -m venv .venv  
+venv\Scripts\activate  
 
 ### Step 3
 
-pip install --upgrade pip
-pip install -r requirements.txt
+pip install --upgrade pip   
+pip install -r requirements.txt 
+
+</p>
