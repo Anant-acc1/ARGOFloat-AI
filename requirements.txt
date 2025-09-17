@@ -1,0 +1,35 @@
+# Core Python scientific stack
+numpy
+pandas
+xarray
+netCDF4
+
+# Data storage and querying
+duckdb
+pyarrow
+sqlalchemy
+psycopg2-binary   # if using PostgreSQL
+geoalchemy2       # if using PostGIS
+
+# Vector DB + embeddings
+faiss-cpu         # for FAISS (use faiss-gpu if you have CUDA)
+chromadb          # optional alternative to FAISS
+sentence-transformers
+openai            # if you want to use OpenAI embeddings/LLMs
+
+# RAG pipeline + orchestration
+langchain
+llama-index
+sqlglot
+pydantic
+
+# Visualization
+streamlit
+plotly
+cartopy
+matplotlib
+
+# Utils + dev
+requests
+tqdm
+python-dotenv
