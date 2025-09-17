@@ -8,9 +8,9 @@ This is our SIH project (problem statement 40)
 
 ## Project Setup
 
-<p>
-    ### Step 1: clone this repository on your system
+### Step 1: clone this repository on your system
 
+<p>
     Run (on terminal):
 
     git clone https://github.com/Abhiraj212024/ARGOFloat-AI.git
@@ -29,10 +29,9 @@ This is our SIH project (problem statement 40)
 
     python -m venv .venv
     venv\Scripts\activate
-
 </p>
 
-### Step 3
+### Step 3: Install Dependencies
 
 <p>
 
