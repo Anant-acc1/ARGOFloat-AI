@@ -12,11 +12,15 @@ This is our SIH project (problem statement 40)
 
 Run (on terminal):
 
-git clone [text](https://github.com/Abhiraj212024/ARGOFloat-AI.git)
+git clone https://github.com/Abhiraj212024/ARGOFloat-AI.git
+
+</p>
 
 ### Step 2: Create a virtual environment (recommended)
 
 #On Mac/Linux Run(on terminal):
+
+<p>
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -26,7 +30,10 @@ source .venv/bin/activate
 python -m venv .venv  
 venv\Scripts\activate  
 
+</p>
+
 ### Step 3
+<p>
 
 pip install --upgrade pip   
 pip install -r requirements.txt 
