@@ -33,3 +33,10 @@ matplotlib
 requests
 tqdm
 python-dotenv
+
+#langchain libraries
+langchain_community
+tiktoken
+langchainhub
+langchain
+bs4
